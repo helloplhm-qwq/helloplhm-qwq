@@ -7,10 +7,13 @@
 主要学Python，正在学JavaScript  
 经常出没：  
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
-![](https://img.shields.io/badge/-Java-ab7221?style=flat-square&logo=Java&logoColor=fff)
+![](https://img.shields.io/badge/-C%2B%2B-3e74a2?style=flat-square&logo=C%2B%2B&logoColor=fff)
 ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
 ![](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows)
 
+学习中：
+![](https://img.shields.io/badge/-Java-ab7221?style=flat-square&logo=Java&logoColor=fff)
+![](https://img.shields.io/badge/-JavaScript-ab7221?style=flat-square&logo=JavaScript&logoColor=fff)
 <!---
 helloplhm-qwq/helloplhm-qwq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
