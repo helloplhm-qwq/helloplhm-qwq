@@ -19,6 +19,11 @@
 ![](https://img.shields.io/badge/-JavaScript-ab7221?style=flat-square&logo=JavaScript&logoColor=fff)
 
 联系我：helloplhm-qwq+outlook.com，+换成@
+
+其他个人账号: 
+QQ: 2056095489
+Bilibili: [@梓澄awa](https://space.bilibili.com/2051658972)
+爱发电: [点击跳转](http://afdian.net/a/zcmonety_qwq)
 <!---
 helloplhm-qwq/helloplhm-qwq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
