@@ -8,10 +8,9 @@
 ~~我想去[露米兰](https://book.sfacg.com/Novel/703434)~~  
 QAQ  
 
-联系我：helloplhm-qwq+outlook.com，+换成@  
+联系我：helloplhm-qwq+outlook.com / i+naiy.me，+换成@  
 
 其他个人账号:  
-QQ: 2056095489  
 Bilibili: [@梓澄awa](https://space.bilibili.com/2051658972)  
 爱发电: [点击跳转](http://afdian.net/a/zcmonety_qwq)  
 Telegram: [Naiy_](https://t.me/naiy_awa)
